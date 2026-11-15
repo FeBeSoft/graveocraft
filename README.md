@@ -46,6 +46,16 @@ En développement, pas encore diffusé : le code sera publié ici avec la premi�
 
 Licence prévue / Planned license : GPL-3.0
 
+## Remerciements / Credits
+
+Merci à tous ceux dont le travail a rendu GravéoCraft possible / Thanks to everyone whose work made GravéoCraft possible:
+
+- [Toprammer](https://github.com/mbuesch/toprammer) (Michael Büsch), qui a ouvert la voie pour la famille TOP
+- [minipro](https://gitlab.com/DavidGriffith/minipro) et [IMSProg](https://github.com/bigbigmdm/IMSProg), pour leurs idées d'interface et d'architecture
+- les équipes de Rust, de [Tauri](https://github.com/tauri-apps/tauri) et de [serialport-rs](https://github.com/serialport/serialport-rs)
+- la communauté RC2014 et les passionnés d'informatique rétro
+- primrosebank.net, qui conserve la documentation du TOP853 et de TopWin6
+
 ---
 
 <p align="center">Un projet <a href="https://fe-be.fr">FeBe</a> - logiciels libres pour makers</p>
